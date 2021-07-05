@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphael.aubry@hotmail.fr
+	name = Raphael Aubry
